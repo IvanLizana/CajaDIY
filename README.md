@@ -5,12 +5,12 @@ Por **AstroRemoto powered by FourIndustry**.
 
 Defines las medidas interiores, la tapa, los postes de la placa, los agujeros para conectores y hasta tus logos, y CajaDIY genera los STL de la caja y la tapa listos para imprimir.
 
-## Descargar
-En **[Releases](../../releases/latest)**:
-- `CajaDIY_Setup_<versión>.exe` — instalador para Windows con OpenSCAD incluido (recomendado).
-- `CajaDIY_SinOpenSCAD_Setup_<versión>.exe` — instalador más liviano; usa el OpenSCAD que tengas instalado ([openscad.org](https://openscad.org/downloads.html)).
+## Requisitos
+- Windows 10/11 de 64 bits. No hace falta Python. El instalador no pide administrador.
+- **OpenSCAD** (gratuito, **no viene incluido**): CajaDIY lo usa para generar los STL y la vista previa. Descárgalo de **[openscad.org/downloads](https://openscad.org/downloads.html)** e instálalo en su carpeta habitual (`C:\Program Files\OpenSCAD`). La versión de desarrollo (*Development Snapshot*) genera los STL mucho más rápido. Si al terminar la instalación de CajaDIY no se encuentra OpenSCAD, el asistente ofrece abrir esa página.
 
-Requisitos: Windows 10/11 de 64 bits. No hace falta Python. El instalador no pide administrador.
+## Descargar
+En **[Releases](../../releases/latest)**: `CajaDIY_Setup_<versión>.exe`.
 
 ## Qué hace
 - Caja con pared, radios y pestañas de montaje (2 o 4, con avellanado y puentes para amarras).
