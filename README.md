@@ -16,9 +16,11 @@ En **[Releases](../../releases/latest)**: `CajaDIY_Setup_<versión>.exe`.
 **[Manual de usuario de CajaDIY (PDF)](Manual_de_usuario_CajaDIY.pdf)**: instalación, tutorial paso a paso con un ESP32, todas las pestañas, consejos de impresión y problemas frecuentes.
 
 ## Qué hace
-- Caja con pared, radios y pestañas de montaje (2 o 4, con avellanado y puentes para amarras).
-- 8 tipos de tapa: con bisagra, a presión con broches, por fricción, con tornillos (exterior o embutida), con imanes, corredera y campana.
-- Postes para la placa con plantillas (Arduino UNO, Raspberry Pi 4/5, ESP32 DevKit), tabiques interiores.
+- Caja con pared y pestañas de montaje (2 o 4, con avellanado y puentes para amarras); esquinas a 90° por defecto, con radio exterior e interior opcionales.
+- 8 tipos de tapa: con bisagra (reforzada, sin roces al abrir, holgura ajustable), a presión con broches, por fricción, con tornillos (exterior o embutida), con imanes, corredera y campana.
+- Postes para la placa con plantillas (Arduino UNO, Raspberry Pi 4/5, ESP32 DevKit).
+- Tabiques interiores con largo propio, medidos desde la pared que elijas; se pueden cruzar con alturas distintas.
+- Soportes en cuña en las paredes (rieles para apoyar una placa o una bandeja) que se imprimen sin material de apoyo.
 - Agujeros en las 6 caras (rectangulares con radio o circulares) con catálogo de conectores (USB-C, micro-USB, USB-A, RJ45, jack, prensaestopas PG7, M12, borneras, OLED, LED).
 - Logos e imágenes en cualquier cara: en relieve, grabados o calados, varios por cara; se escalan solos.
 - Vista 2D con avisos de colisiones, vista previa en OpenSCAD, exportación de STL por separado.
