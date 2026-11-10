@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad de seguridad
+    url: https://github.com/IvanLizana/CajaDIY/security/advisories/new
+    about: Los problemas de seguridad se reportan en privado, no en issues públicos.
+  - name: Manual de usuario
+    url: https://github.com/IvanLizana/CajaDIY/blob/main/Manual_de_usuario_CajaDIY.pdf
+    about: Revisa el manual y la sección de problemas frecuentes antes de reportar.
