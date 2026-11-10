@@ -12,6 +12,9 @@ Defines las medidas interiores, la tapa, los postes de la placa, los agujeros pa
 ## Descargar
 En **[Releases](../../releases/latest)**: `CajaDIY_Setup_<versión>.exe`.
 
+## Manual de usuario
+**[Manual de usuario de CajaDIY (PDF)](Manual_de_usuario_CajaDIY.pdf)**: instalación, tutorial paso a paso con un ESP32, todas las pestañas, consejos de impresión y problemas frecuentes.
+
 ## Qué hace
 - Caja con pared, radios y pestañas de montaje (2 o 4, con avellanado y puentes para amarras).
 - 8 tipos de tapa: con bisagra, a presión con broches, por fricción, con tornillos (exterior o embutida), con imanes, corredera y campana.
